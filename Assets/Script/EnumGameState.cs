@@ -1,5 +1,7 @@
 public enum EnumGameState
 {
     IDLE,
-    PLAYING
+    PLAYING,
+    DYING,
+    ENDED
 }
